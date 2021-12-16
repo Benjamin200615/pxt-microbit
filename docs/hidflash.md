@@ -1,4 +1,4 @@
-# Flashing via HID (CMSIS-DAP)
+# Flashing via HD (CMSIS-DAP)
 
 When the web app has access to a HID connection to the board, it can flash
 the board via the hardware debugger interface.
